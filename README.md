@@ -33,7 +33,7 @@ pip install opencv-python mediapipe pyautogui numpy
 1. Connect a webcam to your computer.
 2. Run the Python script:
    ```bash
-   python hand_gesture_mouse.py
+   main.py
    ```
 3. Control the mouse cursor by moving your hand in front of the camera.
 4. Use gestures for additional mouse actions:
